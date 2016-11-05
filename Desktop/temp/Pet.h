@@ -10,7 +10,7 @@ class Pet
         string name;
         int age;
 	
-	virtual void action() {}
+	virtual void action() {} 
 
         Pet();
         ~Pet();

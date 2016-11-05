@@ -8,7 +8,7 @@ class Fern : public Plant
 {
     public:
 
-        void action();
+        void action(); 
 
          Fern();
         ~Fern();

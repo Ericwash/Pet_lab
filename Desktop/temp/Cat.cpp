@@ -7,7 +7,7 @@ Cat::Cat()
     //something
 }
 
-void Cat::action()
+void Cat::action() 
 {
    cout << "Maintain eye contact assert dominance" << endl;
 }

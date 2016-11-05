@@ -9,7 +9,7 @@ Snake::Snake()
 
 void Snake::action()
 {
-   cout << "snek snek snek" << endl;
+   cout << "snek snek snek" << endl; 
 }
 
 Snake::~Snake()

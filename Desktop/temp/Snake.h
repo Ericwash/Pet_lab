@@ -15,7 +15,7 @@ class Snake : public Animal
 
     protected:
 
-    private:
+    private: 
 };
 
 #endif // SNAKE_H

@@ -4,7 +4,7 @@
 #include "Animal.h"
 using namespace std;
 
-class Dog : public Animal
+class Dog : public Animal 
 {
     public:
 

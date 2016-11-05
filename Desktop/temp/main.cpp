@@ -20,7 +20,7 @@ int main()
     Snake *snakePointer;
     snakePointer = &mySnake;
 
-    snakePointer -> action();
+    snakePointer -> action(); 
 
 
 

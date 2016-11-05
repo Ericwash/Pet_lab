@@ -7,7 +7,7 @@ Fern::Fern()
     //something
 }
 
-void Fern::action()
+void Fern::action() 
 {
     cout << "fern rises" << endl;
 }

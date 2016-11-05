@@ -9,7 +9,7 @@ class Animal : public Pet
     public:
 
         char gender;
-        bool indoor_outdoor;
+        bool indoor_outdoor; 
 	
 
         Animal();

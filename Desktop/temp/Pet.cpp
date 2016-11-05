@@ -7,7 +7,7 @@ Pet::Pet()
     //something
 }
 
-Pet::~Pet()
+Pet::~Pet() 
 {
     //dtor
 }

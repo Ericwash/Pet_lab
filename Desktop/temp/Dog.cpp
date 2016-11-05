@@ -9,7 +9,7 @@ Dog::Dog()
 
 void action()
 {
-    cout << "Yum" << endl;
+    cout << "Yum" << endl; 
 }
 
 Dog::~Dog()

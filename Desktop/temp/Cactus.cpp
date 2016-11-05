@@ -9,7 +9,7 @@ Cactus::Cactus()
 
 void Cactus::action()
 {
-    cout << "poke" << endl;
+    cout << "poke" << endl; 
 }
 
 Cactus::~Cactus()

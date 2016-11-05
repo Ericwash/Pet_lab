@@ -8,7 +8,7 @@ class Cat : public Animal
 {
     public:
 
-            void action();
+            void action(); 
 
         Cat();
         ~Cat();

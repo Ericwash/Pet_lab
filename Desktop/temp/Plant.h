@@ -16,7 +16,7 @@ class Plant : public Pet
 
     protected:
 
-    private:
+    private: 
 };
 
 #endif // PLANT_H
